@@ -1,0 +1,1096 @@
+@media screen and (max-width:1299px) {
+    body {
+        padding-top: 147px;
+    }
+
+    .header-logo img {
+        max-width: 56%;
+    }
+
+    .header-top-main {
+        padding: 15px 0;
+    }
+
+    .header-bottom-left>ul>li>a {
+        padding: 25px 19px;
+    }
+
+    .fixed-header #header {
+        margin-top: -88px;
+    }
+
+    #featured {
+        margin: 70px 0;
+    }
+
+    .Products {
+        margin: 40px 0;
+        margin-left: -15px;
+        margin-right: -15px;
+    }
+
+    .featured-surgical-free-text h4 {
+        font-size: 65px;
+        line-height: 80px;
+    }
+
+    .brands p {
+        margin-bottom: 14px;
+    }
+}
+
+@media screen and (max-width:1199px) {
+    .header-bottom-left>ul>li>a {
+        padding: 25px 17px;
+        font-size: 15px;
+    }
+
+    .fixed-header #header {
+        margin-top: -79px;
+    }
+
+    body.fixed-header {
+        padding-top: 61px;
+    }
+
+    #featured {
+        margin: 60px 0;
+    }
+
+    .featured-content h2 {
+        margin-bottom: 8px;
+        font-size: 37px;
+    }
+
+    .featured-content p {
+        line-height: 24px;
+    }
+
+    .featured-card {
+        padding: 0;
+        box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.25);
+    }
+
+    .featured-caer-text {
+        padding: 13px;
+    }
+
+    .featured-caer-text h4 {
+        font-size: 19px;
+        line-height: 20px;
+        padding: 7px 0;
+    }
+
+    .featured-caer-text h5 {
+        font-size: 16px;
+        margin: 6px 0;
+        line-height: 23px;
+    }
+
+    .featured-surgical-img {
+        --bs-aspect-ratio: calc(9 / 20 * 103%);
+    }
+
+    .featured-surgical-free {
+        padding: 35px 13px;
+    }
+
+    .featured-surgical-free-text h2 {
+        font-size: 33px;
+    }
+
+    .featured-surgical-free-text h4 {
+        font-size: 55px;
+        line-height: 47px;
+    }
+
+    .brands ul li {
+        font-size: 16px;
+        line-height: 20px;
+        padding-bottom: 7px;
+    }
+
+    .brands>p {
+        line-height: 23px;
+    }
+
+    .brands>h2 {
+        margin-bottom: 7px;
+    }
+
+    .featured-caer-text {
+        margin-bottom: 0 !important;
+    }
+
+    #featured {
+        margin: 50px 0;
+    }
+
+    .maedicines-content h2 {
+        font-size: 33px;
+        margin-bottom: 7px;
+    }
+
+    .hh {
+        margin-top: 25px;
+        width: 115px;
+        height: 122px;
+        padding: 20px 15px;
+    }
+
+    .meadicines-dot {
+        margin-top: 25px;
+    }
+
+    .number {
+        font-size: 33px;
+    }
+
+    .maedicines-read a {
+        margin-top: 24px;
+    }
+
+    .maedicines-read a {
+        margin-top: 18px;
+        font-size: 15px;
+        padding: 9px 21px;
+    }
+
+    .category-content h2 {
+        font-size: 33px;
+        margin-bottom: 5px;
+    }
+
+    .category-content p {
+        line-height: 23px;
+    }
+
+    .category-content ul {
+        margin-top: 26px;
+    }
+
+    .nav-item button {
+        font-size: 15px;
+    }
+
+    .nav-pills .nav-link {
+        padding: 6px 20px;
+    }
+
+    /* .Products{
+        margin: 30px 0;
+    } */
+    .featured-caer-text {
+        margin-bottom: 20px !important;
+    }
+
+    .featured-caer-text h4 {
+        font-size: 16px;
+        line-height: 17px;
+    }
+
+    .hurry-content h2 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+
+    .hurry-content h3 {
+        font-size: 30px;
+        margin-bottom: 5px;
+    }
+
+    .hurry-content p {
+        max-width: 100%;
+        line-height: 24px;
+        margin-bottom: 10px;
+    }
+
+    .hurry-content a {
+        font-size: 15px;
+        padding: 9px 25px;
+        margin-top: 10px;
+    }
+
+    #hurry {
+        margin-bottom: 60px;
+    }
+
+    .antibiotics h2 {
+        margin-bottom: 6px;
+        font-size: 33px;
+    }
+
+    .antibiotics p {
+        max-width: 50%;
+        line-height: 24px;
+    }
+
+    #advanced {
+        padding-top: 50px;
+    }
+
+    .advanced-form p {
+        max-width: 50%;
+        font-size: 15px;
+    }
+
+    .card-body .hand {
+        font-size: 20px;
+        margin-bottom: 7px;
+    }
+
+    .card-body {
+        padding: 0 20px 20px 20px;
+    }
+
+    .card-intry {
+        margin-top: 14px;
+        margin-bottom: 13px;
+    }
+
+    .card-body p {
+        margin-bottom: 8px;
+        font-size: 15px;
+    }
+
+    .btn {
+        font-size: 14px;
+    }
+
+    .custome {
+        gap: 8px;
+        margin-top: 28px;
+    }
+
+    .custome span {
+        width: 35px;
+        height: 35px;
+        font-size: 25px;
+    }
+
+    .customar-blog-img {
+        margin-top: -45px;
+        margin-left: 21px;
+    }
+
+    .customar-blog-img img {
+        width: 80px;
+        height: 80px;
+    }
+
+    .customar-blog p {
+        padding: 25px 20px 57px;
+    }
+
+    .customar-blog-img-text {
+        margin: 10px 0 0 25px;
+    }
+
+    .customar-content h2 {
+        font-size: 33px;
+        margin-bottom: 7px;
+    }
+
+    .customar-content p {
+        max-width: 57%;
+    }
+
+    .customar-wreppar {
+        margin-bottom: 0 !important;
+    }
+
+    .Quick-content p {
+        line-height: 23px;
+    }
+
+    .footer-form input[type="submit"] {
+        max-width: 115px;
+        font-size: 15px;
+        padding: 9px 21px;
+    }
+
+    .footer-form input[type="email"] {
+        width: calc(100% - 115px);
+        max-width: 230px;
+        padding: 11px;
+    }
+
+    .footer-logo img {
+        max-width: 82%;
+    }
+
+    .footer-top::after,
+    .footer-top::before {
+        top: 105px;
+    }
+
+    .footer-content h4 {
+        margin-bottom: 10px;
+    }
+
+    .footer-content p {
+        margin-bottom: 0;
+    }
+
+    .footer-content span {
+        margin-bottom: 0;
+    }
+
+    .footer-content>ul>li>a {
+        padding: 0;
+    }
+
+    .footer-top::before {
+        bottom: 115px;
+    }
+}
+
+@media screen and (max-width:991px) {
+
+    /*--------manu-icon-start-------*/
+    .menu-icon {
+        display: block;
+    }
+
+    .menu-icon {
+        width: 30px;
+        height: 30px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .menu-icon span {
+        width: 100%;
+        height: 3px;
+        background: var(--black-color);
+        transition: all ease 0.5s;
+        margin-left: auto;
+    }
+
+    .menu-icon::after,
+    .menu-icon::before {
+        content: "";
+        position: absolute;
+        top: 5px;
+        left: 0;
+        background: var(--black-color);
+        width: 100%;
+        height: 3px;
+        transition: all ease 0.5s;
+    }
+
+    .menu-icon::before {
+        bottom: 4px;
+        top: auto;
+    }
+
+    .open-sub-menu .menu-icon span {
+        width: 0;
+        transition: all ease 0.5s;
+    }
+
+    .open-sub-menu .menu-icon::after {
+        transform: rotate(45deg);
+        top: 13px;
+        transition: all ease 0.5s;
+    }
+
+    .open-sub-menu .menu-icon::before {
+        transform: rotate(-45deg);
+        bottom: 13px;
+        transition: all ease 0.5s;
+    }
+
+    .header-bottom-left.open-sub-menu>ul {
+        left: 0;
+    }
+
+    .header-bottom-left>ul {
+        position: fixed;
+        top: 0;
+        left: -100%;
+        background: white;
+        width: 260px;
+        margin-left: 0;
+        height: 100vh;
+        z-index: 11;
+        padding-top: 0px;
+        transition: all ease 0.5s;
+        flex-direction: column;
+        overflow: hidden;
+        overflow-y: auto;
+    }
+
+    .header-bottom-left>ul>li {
+        padding: 0;
+        border-bottom: 1px solid #b1adad;
+        position: relative;
+    }
+
+    .header-bottom-left>ul>li:last-child {
+        border-bottom: none;
+    }
+
+    .header-bottom-left>ul>li>a::after {
+        display: none;
+    }
+
+    .header-bottom-left>ul>li>a {
+        padding: 0 40px 0 15px !important;
+        font-size: 16px;
+        line-height: 42px;
+        color: #000;
+        display: block;
+    }
+
+    /* .padding-home{
+
+} */
+    .angle i {
+        display: block;
+        font-size: 16px;
+        font-weight: 900;
+
+    }
+
+    .angle {
+        position: absolute;
+        top: 0px;
+        right: 0;
+        width: 40px;
+        height: 42px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #000;
+        z-index: 1;
+    }
+
+    .close-icon {
+        margin-left: auto;
+        width: 30px;
+        display: block;
+        text-align: center;
+
+    }
+
+    .open-sub-menu .close-icon {
+        display: block;
+        padding: 10px 0;
+    }
+
+    .collection {
+        visibility: visible;
+        opacity: 1;
+        z-index: 2;
+        top: 0;
+        padding: 0;
+        height: 100vh;
+        right: -100%;
+        left: auto;
+      box-shadow: inherit;
+        transition: all ease 0.5s;
+    }
+
+    .go-back {
+        position: fixed;
+        top: 0;
+        width: 40px;
+        text-align: center;
+        line-height: 30px;
+        left: 0;
+        visibility: hidden;
+        opacity: 0;
+        transition: all ease 0.5s;
+    }
+
+    .open-child-menu .go-back {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    /* .open-child-menu */
+    .collection .go-back {
+        display: block;
+        padding: 10px 0;
+    }
+
+    .open-child-menu .collection{
+        right: 0;
+    }
+    .collection-content h5, .collection-content ul li{
+        border-bottom: 1px solid #b1adad;
+    }
+    .collection-content ul li:last-child{
+       border-bottom: 0;
+    }
+    .collection-content {
+        width: 100%;
+    }
+    .collection-content-main {
+        flex-wrap: wrap;
+        row-gap: 25px;
+    }
+
+
+    /* ------------mobile-opacity-box-start--------- */
+    .open-sub-menu .menu-opacity-box {
+        visibility: visible;
+        opacity: 1;
+    }
+
+    /* ------------mobile-opacity-box-end--------- */
+
+    /*--------manu-icon-start-------*/
+    .header-top-right>ul>li>a>span {
+        display: none;
+    }
+
+    .header-top-right .header-top-line {
+        top: -4px;
+        right: 0;
+    }
+
+    .header-bottom-right {
+        justify-content: end;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    body {
+        padding-top: 115px;
+    }
+
+    .header-bottom-blog {
+        margin: 0;
+    }
+
+    .header-top-right ul {
+        align-items: center;
+    }
+
+    .header-logo img {
+        max-width: 100%;
+    }
+
+    .fixed-header #header {
+        margin-top: -91px;
+    }
+
+    .featured-content h2 {
+        margin-bottom: 4px;
+        font-size: 33px;
+    }
+
+    .featured-content p {
+        max-width: 100%;
+    }
+
+    .featured-surgical-img {
+        --bs-aspect-ratio: calc(9 / 20 * 90%);
+    }
+
+    .maedicines-content {
+        padding-top: 20px;
+    }
+
+    .maedicines-read {
+        padding-bottom: 20px;
+    }
+
+    #category {
+        padding: 55px 0;
+    }
+
+    .featured-caer-text h4 {
+        font-size: 21px;
+    }
+
+    .hurry-content h2 {
+        font-size: 37px;
+        margin-bottom: 3px;
+    }
+
+    .hurry-content h3 {
+        font-size: 27px;
+        margin-bottom: 5px;
+    }
+
+    .hurry-content {
+        padding: 20px 0;
+    }
+
+    .hurry-content a {
+        padding: 5px 23px;
+        margin-top: 7px;
+    }
+
+    .antibiotics h2 {
+        margin-bottom: 5px;
+        font-size: 33px;
+    }
+
+    .antibiotics p {
+        max-width: 100%;
+    }
+
+    .advanced-form h2 {
+        font-size: 33px;
+        margin-bottom: 6px;
+    }
+
+    .advanced-form p {
+        max-width: 100%;
+    }
+
+    .customar-content h2 {
+        font-size: 29px;
+        margin-bottom: 0;
+    }
+
+    .customar-content p {
+        max-width: 100%;
+    }
+
+    .Quick-gap {
+        row-gap: 20px;
+    }
+
+    .category-content p {
+        max-width: 100%;
+    }
+
+    .footer-medium {
+        row-gap: 15px;
+    }
+
+    .footer-top::after {
+        top: 101px;
+    }
+
+    .footer-top::before {
+        bottom: 112px;
+    }
+
+    .footer-medik ul li a {
+        font-size: 14px;
+    }
+
+    .footer-copyright p {
+        font-size: 14px;
+    }
+
+    .footer-bottom-img img {
+        max-width: 41px;
+    }
+
+    .featured-surgical-img-content a {
+        font-size: 15px;
+        padding: 7px 22px;
+    }
+
+    .featured-surgical-img-content p {
+        max-width: 52%;
+    }
+
+    .featured-surgical-img-content {
+        padding: 40px 0 40px 37px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .fixed-header #header {
+        margin-top: -76px;
+    }
+
+    .featured-content h2 {
+        margin-bottom: 4px;
+        font-size: 27px;
+    }
+
+    .featured-surgical-img-content h2 {
+        font-size: 23px;
+    }
+
+    .featured-surgical-img-content p {
+        max-width: 70%;
+        line-height: 23px;
+    }
+
+    .featured-surgical-img-content a {
+        font-size: 14px;
+        padding: 7px 22px;
+        line-height: 22px;
+        margin-top: 0;
+    }
+
+    .featured-surgical-free-text h2 {
+        font-size: 27px;
+    }
+
+    .featured-surgical-free-text h4 {
+        font-size: 47px;
+        line-height: 38px;
+        margin-bottom: 15px;
+    }
+
+    .featured-surgical-right {
+        padding: 10px 12px;
+    }
+
+    .featured-surgical-img-content {
+        padding: 34px 0 34px 26px;
+    }
+
+    .maedicines-content h2 {
+        font-size: 27px;
+        margin-bottom: 3px;
+    }
+
+    .maedicines-content p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    #featured {
+        margin: 45px 0;
+    }
+
+    .category-content h2 {
+        font-size: 28px;
+    }
+
+    .nav-item button {
+        font-size: 14px;
+    }
+
+    .featured-caer-text h4 {
+        font-size: 19px;
+    }
+
+    .hurry-img-main {
+        margin-top: 20px;
+    }
+
+    .hurry-content h2 {
+        font-size: 30px;
+    }
+
+    .hurry-content h3 {
+        font-size: 22px;
+    }
+
+    .antibiotics h2 {
+        font-size: 28px;
+    }
+
+    .advanced-form h2 {
+        font-size: 28px;
+        margin-bottom: 2px;
+    }
+
+    .advanced-main .card {
+        max-width: 100%;
+    }
+
+    .customar-content h2 {
+        font-size: 25px;
+        margin-bottom: 5px;
+    }
+
+    .footer-top::after {
+        top: 142px;
+    }
+
+    .footer-icon a {
+        width: 30px;
+    }
+
+    .footer-icon {
+        justify-content: end;
+    }
+
+    .footer-top {
+        row-gap: 10px;
+    }
+
+    .footer-top::after {
+        top: 165px;
+    }
+
+    .footer-top::before {
+        bottom: 152px;
+    }
+
+    .footer-copyright p {
+        margin: 0 auto;
+        max-width: 60%;
+        margin-bottom: 15px;
+    }
+}
+
+@media screen and (max-width:575px) {
+    .fixed-header #header {
+        margin-top: -72px;
+    }
+    .menu-icon::after {
+        top: 6px;
+    }
+    .header-bottom-account a {
+        padding: 0;
+    }
+    .header-bottom-manu-icon{
+        display: none;
+    }
+    .header-logo img {
+        max-width: 97%;
+    }
+
+    .conutdown {
+        flex-wrap: wrap;
+    }
+
+    .hh {
+        width: 132px;
+        margin-top: 14px;
+    }
+
+    #featured {
+        margin: 40px 0;
+    }
+
+    .featured-content h2 {
+        font-size: 25px;
+    }
+
+    .featured-content p {
+        font-size: 15px;
+    }
+
+    .Products {
+        margin: 35px 0;
+        margin-left: -12px;
+        margin-right: -12px;
+    }
+
+    .featured-caer-text {
+        margin-bottom: 30px !important;
+    }
+
+    .featured-surgical-img {
+        --bs-aspect-ratio: calc(9 / 7 * 75%);
+    }
+
+    .featured-surgical-img-content {
+        padding: 28px 0 26px 22px;
+    }
+
+    .featured-surgical-free-text h4 {
+        font-size: 41px;
+        line-height: 35px;
+        margin-bottom: 7px;
+    }
+
+    .featured-surgical-free-text h2 {
+        font-size: 24px;
+    }
+
+    .featured-surgical-free {
+        padding: 25px 13px;
+    }
+
+    .featured-surgical-mask {
+        --bs-aspect-ratio: calc(9 / 10 * 92%);
+    }
+
+    .maedicines-content h2 {
+        font-size: 23px;
+    }
+
+    .maedicines-read {
+        padding-bottom: 27px;
+    }
+
+    .maedicines-read a {
+        padding: 5px 18px;
+    }
+
+    #category {
+        padding: 40px 0;
+    }
+
+    .category-content h2 {
+        font-size: 26px;
+    }
+
+    .category-content ul {
+        margin-top: 26px;
+        justify-content: center;
+        row-gap: 14px;
+    }
+
+    #hurry {
+        margin-bottom: 40px;
+    }
+
+    .antibiotics h2 {
+        font-size: 26px;
+    }
+
+    #advanced {
+        padding-top: 40px;
+    }
+
+    .advanced-form h2 {
+        font-size: 26px;
+        margin-bottom: 6px;
+        line-height: 23px;
+    }
+
+    .advanced-form p {
+        margin-bottom: 20px;
+    }
+
+    .none {
+        display: none;
+    }
+
+    .featured-surgical-img-content a {
+        font-size: 13px;
+        padding: 5px 15px;
+    }
+
+    .maedicines-content p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .maedicines-read a {
+        padding: 3px 14px;
+        font-size: 13px;
+    }
+
+    .category-content h2 {
+        font-size: 24px;
+    }
+
+    .category-content ul {
+        margin-top: 22px;
+        row-gap: 12px;
+    }
+
+    .nav-pills .nav-link {
+        padding: 3px 15px;
+        line-height: 25px;
+        font-size: 14px;
+    }
+
+    .hurry-content h2 {
+        font-size: 26px;
+        line-height: 30px;
+    }
+
+    .hurry-content h3 {
+        font-size: 21px;
+    }
+
+    .hurry-content a {
+        padding: 2px 15px;
+        margin-top: 7px;
+        font-size: 13px;
+    }
+
+    .antibiotics h2 {
+        font-size: 23px;
+    }
+
+    .antibiotics p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .hurry-content p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .advanced-form p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .card-body p {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .card-body {
+        padding: 0px 15px 15px 15px;
+    }
+
+    .custome span {
+        width: 30px;
+        height: 30px;
+        font-size: 22px;
+    }
+
+    .customar-content p {
+        font-size: 14px;
+        line-height: 21px;
+        margin-bottom: 10px;
+    }
+
+    .customar-wreppar {
+        padding-bottom: 0;
+    }
+
+    .Quick-img img {
+        max-width: 50px;
+    }
+
+    .footer-icon {
+        justify-content: center;
+    }
+
+    .footer-logo {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-form input[type="email"] {
+        height: 39px;
+    }
+
+    .footer-form input[type="submit"] {
+        padding: 5px 20px;
+        font-size: 14px;
+    }
+
+    .footer-top::after {
+        top: 191px;
+    }
+
+    .footer-content {
+        text-align: center;
+    }
+
+    .footer-content h4 {
+        margin-bottom: 3px;
+    }
+
+    .footer-content>ul>li>a {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .footer-copyright p {
+        line-height: 23px;
+    }
+
+    .back-to-top {
+        right: 18px;
+    }
+
+}
